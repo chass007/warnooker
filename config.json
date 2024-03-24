@@ -1,0 +1,22 @@
+{
+    "token": "Bot Token",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "Nuked By War Goku",
+            "Nuked By War Goku",
+            "Nuked By War Goku",
+            "Nuked By War Goku"
+        ],
+        "roles_name": [
+            "war goku runs you",
+            "war goku runs you",
+            "war goku runs you"
+        ],
+        "messages_content": [
+            "# @everyone Wizzed war goku https://discord.gg/charsi",
+            "# @everyone Wizzed war goku https://discord.gg/charsi",
+            "# @everyone Wizzed war goku https://discord.gg/charsi"
+        ]
+    }
+}
